@@ -29,4 +29,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'prometheus-client-mmap'
   spec.add_dependency 'yabeda', '~> 0.5'
+  spec.add_dependency 'puma'
 end
